@@ -11,7 +11,7 @@
 <td></td>
 <td><h1>Swiely Hanson</h1>
 <p>
-<em>Grafic Design | Editor | Content Creator</em></a>
+<em>Grafic Design | Editor | Content Creator</em>
 </p>
 <p>
 I am an artistic soul and likes to explore new things.
