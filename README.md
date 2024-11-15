@@ -16,7 +16,7 @@
 <p>
 I am an artistic soul and likes to explore new things.
 </p>
-<img width="15%" height="25%" src="image1.jpeg"></tr>
+<img width="15%" height="25%" src="image1.jpeg">
 </td>
 </tr>
 </table>
